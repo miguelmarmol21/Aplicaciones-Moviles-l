@@ -1,0 +1,14 @@
+Preguntas
+
+1 
+= Sirve para darle valor a una variable
+== Sirve para comparar las variables o comparar variables con un valor
+
+2
+int, string, double, float,chart,long,short,byte
+
+3
+Oracle Corporation
+
+4
+Desarrollo web, big data, Inteligencia Artificial, desarrollo móvil, etc
